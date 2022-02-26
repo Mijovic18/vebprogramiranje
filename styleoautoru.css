@@ -1,0 +1,28 @@
+.tabela
+{
+width: 100%;
+text-align: center; height: 30px;
+}
+#naslov
+{
+color: #cb6000; font-family: Arial; font-size: xx-large; font-weight: bold; height:50px;
+}
+#linkovi
+{
+font-size: x-large; font-style: italic; color: #cb6000;
+font-family: Arial;
+text-align:center;
+}
+.levastrana
+{
+font-family: Arial; color: #cb6000;
+font-size: medium; text-align: right; height: 30px; width: 49%;
+}
+.desnastrana
+{
+font-family: Arial; font-size: large;
+font-style: italic; color: #cb6000; text-align: left; text-indent: 5px; height: 50px;
+}
+body {
+background-color:#131313;
+}
